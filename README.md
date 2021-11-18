@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yjkim13
-- 👀 I’m interested in Backend Developer
+- 👀 I’m Backend Developer
 - 🌱 I’m currently learning Nodejs And MongoDB 
 - 📫 How to reach me ---> Email : <sk940913@naver.com>
 
