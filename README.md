@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yjkim13
 - 👀 I’m Backend Developer
-- 🌱 I’m currently learning Nodejs And MongoDB 
+- 🌱 I’m currently learning Nodejs And Nestjs
 - 📫 How to reach me ---> Email : <sk940913@naver.com>
 
 <!---
