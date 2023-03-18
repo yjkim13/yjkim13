@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yjkim13
-- 👀 I’m Backend Developer
-- 🌱 I’m currently learning Nodejs And Nestjs
+- 👋 Hi, I’m ykkim
+- 👀 I’m Frontend Developer
+- 🌱 I usually use TypeScript , NextJs and mui.
 - 📫 How to reach me ---> Email : <sk940913@naver.com>
 
 <!---
